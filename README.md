@@ -3,7 +3,7 @@
 {
   name: "Jerico",
   surname: "Rodriguez",
-  code: ["TypeScript", "JavaScript", "Angular"],
+  code: ["Java","TypeScript", "JavaScript", "Angular"],
   technologies: {
     frontEnd: ["Angular"],
     backEnd: ["Spring"],
