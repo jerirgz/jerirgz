@@ -3,9 +3,9 @@
 {
   name: "Jerico",
   surname: "Rodriguez",
-  code: ["Java","TypeScript", "JavaScript", "Angular"],
+  code: ["Java",, "Angular"],
   technologies: {
-    frontEnd: ["Angular"],
+    frontEnd: ["Angular", "TypeScript", "JavaScript"],
     backEnd: ["Spring"],
     databases: ["SQL", "MySQL"],
   },
